@@ -168,6 +168,21 @@ python manage.py runserver
 * Patient Records Table
 * AI Prediction Remarks System
 
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## Add Patient Form
+
+![Form](screenshots/add_patient.png)
+
+## Analytics Charts
+
+![Charts](screenshots/charts.png)
+
+## AI Prediction
+
+![AI Prediction](screenshots/ai_prediction.png)
 ---
 
 # Challenges Faced
