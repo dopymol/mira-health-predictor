@@ -1,0 +1,14 @@
+venv/
+.env
+__pycache__/
+*.pyc
+db.sqlite3
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
