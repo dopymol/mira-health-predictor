@@ -318,6 +318,7 @@
                 <tr>
 
                     <th>Name</th>
+                    <th>Date of Birth</th>
                     <th>Email</th>
                     <th>Glucose</th>
                     <th>Haemoglobin</th>
@@ -353,6 +354,8 @@
         </div>
 
     </td>
+
+    <td>{{ patient.dob|date:"d-m-Y" }}</td>
 
     <td>{{ patient.email }}</td>
 
